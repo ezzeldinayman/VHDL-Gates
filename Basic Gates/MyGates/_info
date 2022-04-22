@@ -1,0 +1,115 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/modeltech64_10.5/examples
+T_opt
+!s110 1650581590
+VjlQal5H3J1@e>J64S>H`S1
+04 4 4 work and2 bool 1
+=1-b00cd1f32851-6261e055-378-3fd8
+Z1 o-quiet -auto_acc_if_foreign -work MyGates
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.5;63
+R0
+T_opt1
+!s110 1650582914
+V@[F<AN`Td>PLPka_c@[zk1
+04 11 4 work comparator4 bool 1
+=1-b00cd1f32851-6261e582-194-a84
+R1
+R2
+n@_opt1
+R3
+Eand2
+Z4 w1650581537
+Z5 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z6 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z7 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z8 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z9 dG:/Digital Design/Projects/Basic Gates Using VHDL/VHDL-Course/Basic Gates
+Z10 8G:/Digital Design/Projects/Basic Gates Using VHDL/VHDL-Course/Basic Gates/AND2.vhd
+Z11 FG:/Digital Design/Projects/Basic Gates Using VHDL/VHDL-Course/Basic Gates/AND2.vhd
+l0
+L5
+V>kfB9ggG?<>L^[`EU[^9H2
+!s100 5;_=:SM^_>mm3@[I875G30
+Z12 OL;C;10.5;63
+32
+Z13 !s110 1650581545
+!i10b 1
+Z14 !s108 1650581545.000000
+Z15 !s90 -reportprogress|300|-work|MyGates|-2002|-explicit|-vopt|-stats=none|G:/Digital Design/Projects/Basic Gates Using VHDL/VHDL-Course/Basic Gates/AND2.vhd|
+Z16 !s107 G:/Digital Design/Projects/Basic Gates Using VHDL/VHDL-Course/Basic Gates/AND2.vhd|
+!i113 0
+Z17 o-work MyGates -2002 -explicit
+Z18 tExplicit 1 CvgOpt 0
+Abool
+R5
+R6
+R7
+R8
+DEx4 work 4 and2 0 22 >kfB9ggG?<>L^[`EU[^9H2
+l12
+L11
+VeHC]>DcO?8NFJ>U1jJSP23
+!s100 nG8SYhA=3MAOWA_NW_>3M2
+R12
+32
+R13
+!i10b 1
+R14
+R15
+R16
+!i113 0
+R17
+R18
+Ecomparator4
+Z19 w1650582886
+R5
+R6
+R7
+R8
+R9
+Z20 8G:/Digital Design/Projects/Basic Gates Using VHDL/VHDL-Course/Basic Gates/COMPARATOR4.vhd
+Z21 FG:/Digital Design/Projects/Basic Gates Using VHDL/VHDL-Course/Basic Gates/COMPARATOR4.vhd
+l0
+L5
+VggE4=A;3Bo0RKm_Am`U_j0
+!s100 ]Hf9:YDzeIk:KohY0VGlR1
+R12
+32
+Z22 !s110 1650582890
+!i10b 1
+Z23 !s108 1650582890.000000
+Z24 !s90 -reportprogress|300|-work|MyGates|-2002|-explicit|-vopt|-stats=none|G:/Digital Design/Projects/Basic Gates Using VHDL/VHDL-Course/Basic Gates/COMPARATOR4.vhd|
+Z25 !s107 G:/Digital Design/Projects/Basic Gates Using VHDL/VHDL-Course/Basic Gates/COMPARATOR4.vhd|
+!i113 0
+R17
+R18
+Abool
+R5
+R6
+R7
+R8
+DEx4 work 11 comparator4 0 22 ggE4=A;3Bo0RKm_Am`U_j0
+l11
+L10
+VaL?mbaQ66ochGY;D>];cS3
+!s100 IhfZ20lZ^[G3Xcg^ajac:1
+R12
+32
+R22
+!i10b 1
+R23
+R24
+R25
+!i113 0
+R17
+R18
